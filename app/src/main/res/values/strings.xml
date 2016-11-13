@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">每日新闻</string>
+    <string name="action_settings">分类管理</string>
+    <string name="action_shares">分享</string>
+    <string name="action_collection">收藏</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
